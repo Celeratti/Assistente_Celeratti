@@ -17,7 +17,7 @@ Verifique se o script tem permissões de execução adequadas. No terminal, nave
 chmod +x assistenteMacci.sh
 
 # Passo 5: Execute o script
-Digite o comando 
+Digite o comando: sudo bash assistenteMacci.sh
 
 # Passo 6: Acompanhamento
 Durante a execução do script, você pode ser solicitado a fornecer informações adicionais ou confirmar ações específicas. Leia atentamente as mensagens exibidas e siga as instruções conforme necessário.
